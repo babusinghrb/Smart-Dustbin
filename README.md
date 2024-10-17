@@ -36,8 +36,3 @@ The **Smart Dustbin using IoT** is an innovative system designed to automate was
 - **Smart Cities**: This project fits into the larger concept of smart cities where urban services are automated for greater efficiency.
 - **Corporate Offices**: Corporations can install smart dustbins to promote hygiene and reduce waste management costs.
 
-## Setup Instructions
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/smart-dustbin-iot.git
