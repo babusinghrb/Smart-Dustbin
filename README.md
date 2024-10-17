@@ -15,12 +15,11 @@ The **Smart Dustbin using IoT** is an innovative system designed to automate was
 
 ## Components Used
 
-- **Arduino/ESP32/NodeMCU**: The main microcontroller for handling sensor data and sending information to the cloud.
+- **ESP32**: The main microcontroller for handling sensor data and sending information to the cloud.
 - **Ultrasonic Sensor (HC-SR04)**: Used to measure the distance between the sensor and the waste to detect bin fill level.
 - **Servo Motor**: Controls the automatic opening and closing of the dustbin lid.
-- **Wi-Fi Module (ESP8266) / GSM Module (SIM900A)**: For sending data to the cloud for remote monitoring.
 - **Power Supply**: For powering the system components.
-- **IoT Platform (e.g., Firebase, ThingSpeak)**: To store and visualize the sensor data in real time.
+- **IoT Platform (Firebase)**: To store and visualize the sensor data in real time.
 
 ## How It Works
 
